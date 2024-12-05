@@ -1,0 +1,15 @@
+{
+  "name": "privasee-tech-test",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "pnpm --parallel --filter \"@privasee/*\" dev",
+    "build": "pnpm --filter \"@privasee/*\" build",
+    "lint": "pnpm --filter \"@privasee/*\" lint",
+    "test": "pnpm --filter \"@privasee/*\" test"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
+    "typescript": "^5.5.3"
+  }
+}
