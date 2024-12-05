@@ -7,12 +7,11 @@ This project demonstrates my approach to building a full-stack application for m
 ## Requirements Implementation
 
 ### Core Features Completed
-✅ Question Management (CRUD operations)
-✅ Question Assignment
-✅ Bulk Assignment
-✅ Custom Properties/Tags
-✅ Search
-✅ Filtering (by assignee and properties)
+- [x] Question Assignment
+- [x] Bulk Assignment
+- [x] Custom Properties/Tags
+- [x] Search
+- [x] Filtering (by assignee and properties)
 
 ### Technical Implementation
 
